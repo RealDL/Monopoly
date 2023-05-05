@@ -16,3 +16,7 @@
 5. Click [here](https://www.hasbro.com/common/instruct/00009.pdf) to see how monopoly is played
 
 # Updates
+
+# Future updates
+1. Add an American and London version option
+2. Add a way to buy, sell, auction and rent properties.
