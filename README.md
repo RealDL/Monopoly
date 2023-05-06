@@ -22,7 +22,7 @@
 4. Functions for above all work
 
 # Future updates
-1.~~Add an American and London version option~~ 
+1.~~Add an American and London version option~~.
 2. Add a way to buy, sell, auction and rent properties.
 
 # IMPORTANT
