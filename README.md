@@ -12,7 +12,7 @@
 1. Choose the number of player (2-6)
 2. Choose your token and username (both have to be unique)
 3. When the last person fills in their username the game starts.
-4. It's just normal monopoly (London version)
+4. It's just normal monopoly (London version or American Version)
 5. Click [here](https://www.hasbro.com/common/instruct/00009.pdf) to see how monopoly is played
 
 # Updates
