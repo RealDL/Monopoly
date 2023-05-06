@@ -18,5 +18,5 @@
 # Updates
 
 # Future updates
-1. Add an American and London version option
+1. __Add an American and London version option__
 2. Add a way to buy, sell, auction and rent properties.
