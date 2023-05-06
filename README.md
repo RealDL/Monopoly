@@ -24,8 +24,8 @@
 # Future updates
 1. ~~Add an American and London version option.~~
 2. ~~Make Chance and Community Chest functional.~~
-3. Add a way to lose.
-5. Add a way to buy, sell, auction and rent properties.
+3. Add a way to buy, sell, auction and rent properties.
+4. Add a way to lose and win.
 
 # IMPORTANT
 Please make sure your device is 1920px by 1080px because my Monopoly works with 1920x1080.
