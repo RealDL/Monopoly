@@ -18,5 +18,5 @@
 # Updates
 
 # Future updates
-1.A̶d̶d̶ a̶n̶ A̶m̶e̶r̶i̶c̶a̶n̶ a̶n̶d̶ L̶o̶n̶d̶o̶n̶ v̶e̶r̶s̶i̶o̶n̶ o̶p̶t̶i̶o̶n̶
+1.~~Add an American and London version option~~
 2. Add a way to buy, sell, auction and rent properties.
