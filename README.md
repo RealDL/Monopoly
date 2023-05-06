@@ -23,6 +23,7 @@
 
 # Future updates
 1.~~Add an American and London version option~~
+
 2. Add a way to buy, sell, auction and rent properties.
 
 # IMPORTANT
@@ -30,6 +31,5 @@ Please make sure your device is 1920px by 1080px because my Monopoly works with 
 Otherwise you will not be able to play it and it will look weird.
 If you are using Windows. Please click [here](https://www.youtube.com/watch?v=3GdKiUAnyHc) and watch this video to change your resolution to 1920x1080.
 If you are using Mac. Please click [here](https://www.youtube.com/watch?v=eVzrNptiBSg) and watch this video to change your resolution to 1920x1080.
-
 # Thank you
 DL#6569
