@@ -6,7 +6,7 @@
 3. When you install python install it **with** PATH. 
 4. Install pygame ```pip install pygame```
 5. Then you run the main.py file by double clicking on it.
-6. If any assistance is needed contact DL#6569
+6. If any assistance is needed contact DL#6569 on Discord.
 
 # How to Play
 1. Choose the number of player (2-6)
